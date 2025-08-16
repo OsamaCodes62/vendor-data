@@ -1,1 +1,1 @@
-"# vendor-data" 
+# vendor-data
